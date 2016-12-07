@@ -5,3 +5,4 @@ haha
 test
 test1
 qtone
+test-qt
